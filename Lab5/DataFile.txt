@@ -1,0 +1,3 @@
+In late July, a groundbreaking discovery drew public attention. A South Korean team claimed that LK-99 exhibited superconductivity at normal pressure and room temperatures up to 127°C, contrasting with conventional superconductors that work at extremely low temperatures and pressures.
+
+However, further investigations have shown that impurities, particularly copper sulfide, were responsible for its apparent characteristics of partial levitation over a magnet and sharp drops in electrical resistivity. Finally, multiple replication attempts dismissed the claim of room-temperature superconductivity in LK-99.

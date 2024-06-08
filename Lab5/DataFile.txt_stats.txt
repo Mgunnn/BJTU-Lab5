@@ -1,0 +1,8 @@
+File: D:\Lab5\DataFile.txt
+Words: 80
+Letters: 511
+Digits: 7
+Spaces: 77
+Newlines: 2
+Punctuations: 13
+Others: 2

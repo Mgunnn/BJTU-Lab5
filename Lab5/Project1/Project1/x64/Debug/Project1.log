@@ -1,0 +1,6 @@
+﻿  html.cpp
+D:\Lab5\Project1\Project1\html.cpp(44,22): warning C4129: “L”: 不可识别的字符转义序列
+D:\Lab5\Project1\Project1\html.cpp(44,22): warning C4129: “D”: 不可识别的字符转义序列
+D:\Lab5\Project1\Project1\html.cpp(96,33): warning C4129: “L”: 不可识别的字符转义序列
+D:\Lab5\Project1\Project1\html.cpp(96,33): warning C4129: “D”: 不可识别的字符转义序列
+  Project1.vcxproj -> D:\Lab5\Project1\x64\Debug\lab5.exe
